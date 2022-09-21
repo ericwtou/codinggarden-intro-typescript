@@ -1,1 +1,1 @@
-# codinggarden-intro-typescript
+# [Coding Garden - Intro to TypeScript](https://www.youtube.com/watch?v=2ArU2F92rds)
